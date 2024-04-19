@@ -1,0 +1,144 @@
+<!--
+<!doctype html>
+<html>
+    <head>
+        <title>Embeddings</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Signika+Negative:wght@500&family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&display=swap">
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+        <h1>
+            Ensem chatbot
+            <span class="icon material-symbols-outlined">chat_bubble</span>
+        </h1>
+        <form>
+            <input type="text" placeholder="How can I help?">
+            <button>
+                <span class="icon material-symbols-outlined">send</span>
+            </button>
+        </form>
+        <p class="reply"></p>
+        <script src="index.js" type="module"></script>
+    </body>
+</html>-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ensem chatbot</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Signika+Negative:wght@500&family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0&display=swap">
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <h1 style="font-family: 'Signika Negative', sans-serif;
+    color: #284b63;
+    text-align: center;
+    font-size: 2.25rem;">
+        Ensem chatbot 
+        <span class="icon material-symbols-outlined">chat_bubble</span>
+        <p style="font-size: 14px">by MSK team</p>
+    </h1>
+    <form id="chat-form" style="border: solid 2px #284b63;
+    display: flex;
+    border-radius: 5px;
+    margin-bottom: 1.5rem;
+    overflow: hidden;">
+        <input style="font-size: 1.15rem;
+        flex: 1;
+        border: none; padding: 10px 15px;" type="text" id="user-input" placeholder="How can I help?">
+        <button type="submit" style ="color: #fff;
+        line-height: 0; padding: 10px 15px;
+        background-color: #284b63;
+        border: none;
+        cursor: pointer;">
+            <span class="icon material-symbols-outlined">send</span>
+        </button>
+    </form>
+    <p class="reply" style="font-size: 1.15rem;
+    line-height: 1.5;"></p>
+
+    <script>
+        document.getElementById("chat-form").addEventListener("submit", function(event) {
+            event.preventDefault(); // Prevent form submission
+            var userInput = document.getElementById("user-input").value;
+            fetch("/ask", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/x-www-form-urlencoded"
+                },
+                body: "user_input=" + encodeURIComponent(userInput)
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.querySelector(".reply").innerText = data.response;
+            })
+            .catch(error => {
+                console.error("Error:", error);
+            });
+        });
+    </script>
+</body>
+<style>
+    html, body {
+        margin: 0;
+        padding: 0;
+    }
+    
+    h1 {
+        font-family: 'Signika Negative', sans-serif;
+        color: #284b63;
+        text-align: center;
+        font-size: 2.25rem;
+    }
+    
+    body {
+        padding: 20px;
+    }
+    
+    form {
+        border: solid 2px #284b63;
+        display: flex;
+        border-radius: 5px;
+        margin-bottom: 1.5rem;
+        overflow: hidden;
+    }
+    
+    input,
+    button {
+        padding: 10px 15px;
+    }
+    
+    input {
+        font-size: 1.15rem;
+        flex: 1;
+        border: none;
+    }
+    
+    button {
+        color: #fff;
+        line-height: 0;
+        background-color: #284b63;
+        border: none;
+        cursor: pointer;
+    }
+    
+    button:hover {
+        background-color: #416e8d;
+    }
+    
+    .icon {
+        font-size: 1.75rem;
+    }
+    
+    .reply {
+        font-size: 1.15rem;
+        line-height: 1.5;
+    }
+</style>
+</html>

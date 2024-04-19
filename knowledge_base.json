@@ -1,0 +1,244 @@
+{
+  "questions": [
+    {
+      "question": "hi",
+      "answer": "how are you ?"
+    },
+    {
+      "question": "who is you ?",
+      "answer": "i am an Ensem Assistant ."
+    },
+    {
+      "question": "fine, how about you ?",
+      "answer": "good, thanks"
+    },
+    {
+      "question": "What have you been up to lately?",
+      "answer": "Not much, just the usual. How about you?"
+    },
+    {
+      "question": "Do you have any plans for the weekend?",
+      "answer": "I'm thinking of catching up on some reading. What about you?"
+    },
+    {
+      "question": "How's work/school going?",
+      "answer": "It's been busy, but I'm managing. How about you?"
+    },
+    {
+      "question": "Have you seen any good movies or TV shows lately?",
+      "answer": "Yes, I watched a great movie last night. What about you?"
+    },
+    {
+      "question": "What's your favorite hobby?",
+      "answer": "I enjoy hiking and photography. How about you?"
+    },
+    {
+      "question": "Hey, how's your day going?",
+      "answer": "It's been pretty good so far. How about yours?"
+    },
+    {
+      "question": "Did you do anything fun over the weekend?",
+      "answer": "I went hiking with some friends. How about you?"
+    },
+    {
+      "question": "What's your favorite type of cuisine?",
+      "answer": "I love Italian food, especially pasta dishes. What about you?"
+    },
+    {
+      "question": "Do you have any pets?",
+      "answer": "Yes, I have a dog named Max. Do you have any pets?"
+    },
+    {
+      "question": "Have you traveled anywhere interesting recently?",
+      "answer": "I visited Japan last month. It was an amazing experience. How about you?"
+    },
+    {
+      "question": "What's the best book you've read recently?",
+      "answer": "I recently read 'The Alchemist' by Paulo Coelho, and it was fantastic. How about you?"
+    },
+    {
+      "question": "Do you prefer summer or winter?",
+      "answer": "I prefer summer because I love the warm weather and outdoor activities. What about you?"
+    },
+    {
+      "question": "What program are you studying at ENSEM Casablanca?",
+      "answer": "I'm enrolled in the electrical engineering program. How about you?"
+    },
+    {
+      "question": "How do you find the campus life at ENSEM Casablanca?",
+      "answer": "Campus life here is vibrant and diverse. How about your experience?"
+    },
+    {
+      "question": "who teach you?",
+      "answer": "MSK Team is My teacher"
+    },
+    {
+      "question": "who is your teacher?",
+      "answer": "My teacher is MS Team"
+    },
+    {
+      "question": "which is best club in ensem?",
+      "answer": "All clubs are the best "
+    },
+    {
+      "question": "What are some of the popular student activities or clubs at ENSEM?",
+      "answer": "There are various clubs like the robotics club and the renewable energy club that are quite popular. Have you joined any clubs?"
+    },
+    {
+      "question": "How are the professors and academic resources at ENSEM?",
+      "answer": "The professors are knowledgeable and supportive, and the academic resources are extensive. What's been your experience?"
+    },
+    {
+      "question": "Are there any internship or research opportunities available through ENSEM?",
+      "answer": "Yes, ENSEM provides numerous opportunities for internships and research projects with industry partners. Have you considered any?"
+    },
+    {
+      "question": "What do you enjoy most about studying at ENSEM Casablanca?",
+      "answer": "I enjoy the hands-on learning opportunities and the supportive community here. How about you?"
+    },
+    {
+      "question": "How does ENSEM Casablanca contribute to the local engineering industry?",
+      "answer": "ENSEM plays a significant role in producing skilled engineers who contribute to various sectors of the engineering industry in Casablanca and beyond. What are your thoughts on this?"
+    },
+    {
+      "question": "What are some of the research areas that ENSEM Casablanca focuses on?",
+      "answer": "ENSEM Casablanca conducts research in various fields such as renewable energy, power systems, automation, and telecommunications. Have you explored any of these areas?"
+    },
+    {
+      "question": "How does ENSEM Casablanca support entrepreneurship and innovation among its students?",
+      "answer": "ENSEM encourages entrepreneurship and innovation through programs like startup incubators, hackathons, and entrepreneurial workshops. Have you been involved in any entrepreneurial activities?"
+    },
+    {
+      "question": "What are the facilities like at ENSEM Casablanca?",
+      "answer": "The campus is equipped with state-of-the-art laboratories, libraries, and computer facilities to support student learning and research. Have you had the chance to use any of these facilities?"
+    },
+    {
+      "question": "How does ENSEM Casablanca engage with the local community or industry?",
+      "answer": "ENSEM collaborates with industry partners through internships, joint research projects, and guest lectures to ensure students gain practical experience and industry exposure. Have you participated in any industry collaborations?"
+    },
+    {
+      "question": "What career support services does ENSEM Casablanca offer to its students?",
+      "answer": "ENSEM provides career counseling, job placement assistance, and networking opportunities to help students transition smoothly into the workforce. Have you utilized any of these services?"
+    },
+    {
+      "question": "How does ENSEM Casablanca foster a culture of diversity and inclusion?",
+      "answer": "ENSEM promotes diversity and inclusion through various initiatives such as cultural events, student clubs, and awareness campaigns. How do you think diversity enhances the learning experience?"
+    },
+    {
+      "question": "What are some notable alumni achievements from ENSEM Casablanca?",
+      "answer": "ENSEM has produced many successful alumni who have made significant contributions to their respective fields. Have you come across any notable alumni stories?"
+    },
+    {
+      "question": "Quels types d'\u00c3\u00a9v\u00c3\u00a9nements organise le Club des M\u00c3\u00a9caniciens (CDM) \u00c3\u00a0 l'ENSEM?",
+      "answer": "Le CDM organise des manifestations scientifiques, culturelles et sportives qui sont des atouts majeurs pour l'\u00c3\u00a9cole."
+    },
+    {
+      "question": "Quelle est la devise officielle du Club des \u00c3\u2030lectriciens (CELEC) \u00c3\u00a0 l'ENSEM?",
+      "answer": "La devise officielle du CELEC est \"Celecting Bright Ideas\", mettant en avant l'entraide, l'excellence et la cr\u00c3\u00a9ativit\u00c3\u00a9 de ses membres."
+    },
+    {
+      "question": "Quels sont les objectifs du club ENSEM EL KHIR CIDH et quand a-t-il \u00c3\u00a9t\u00c3\u00a9 cr\u00c3\u00a9\u00c3\u00a9?",
+      "answer": "ENSEM EL KHIR CIDH a \u00c3\u00a9t\u00c3\u00a9 cr\u00c3\u00a9\u00c3\u00a9 en 2010 par des \u00c3\u00a9l\u00c3\u00a8ves ing\u00c3\u00a9nieurs passionn\u00c3\u00a9s par le b\u00c3\u00a9n\u00c3\u00a9volat. Ses objectifs incluent l'aide, la g\u00c3\u00a9n\u00c3\u00a9rosit\u00c3\u00a9 et la responsabilit\u00c3\u00a9 envers la communaut\u00c3\u00a9."
+    },
+    {
+      "question": "Quels types d'activit\u00c3\u00a9s propose le club Art & M\u00c3\u00a9dia \u00c3\u00a0 l'ENSEM?",
+      "answer": "Le club Art & M\u00c3\u00a9dia propose des activit\u00c3\u00a9s artistiques et culturelles organis\u00c3\u00a9es en diff\u00c3\u00a9rentes cellules telles que musique, th\u00c3\u00a9\u00c3\u00a2tre, cin\u00c3\u00a9ma, dessin et m\u00c3\u00a9dia."
+    },
+    {
+      "question": "Quel est le but principal du club Plast Lab \u00c3\u00a0 l'ENSEM?",
+      "answer": "Le Plast Lab vise \u00c3\u00a0 offrir une plateforme aux \u00c3\u00a9tudiants pour d\u00c3\u00a9velopper, valoriser et r\u00c3\u00a9aliser leurs id\u00c3\u00a9es de projets dans divers domaines."
+    },
+    {
+      "question": "Quels sont les principaux objectifs du Club des M\u00c3\u00a9caniciens (CDM) \u00c3\u00a0 l'ENSEM?",
+      "answer": "Le CDM vise \u00c3\u00a0 organiser des manifestations scientifiques, culturelles et sportives pour enrichir l'exp\u00c3\u00a9rience des \u00c3\u00a9tudiants et renforcer l'esprit de communaut\u00c3\u00a9 \u00c3\u00a0 l'\u00c3\u00a9cole."
+    },
+    {
+      "question": "Comment le Club des \u00c3\u2030lectriciens (CELEC) contribue-t-il \u00c3\u00a0 promouvoir l'excellence acad\u00c3\u00a9mique \u00c3\u00a0 l'ENSEM?",
+      "answer": "Le CELEC encourage l'entraide et la collaboration entre les \u00c3\u00a9tudiants, ce qui favorise un environnement propice \u00c3\u00a0 l'apprentissage et \u00c3\u00a0 l'excellence acad\u00c3\u00a9mique."
+    },
+    {
+      "question": "Quels types d'\u00c3\u00a9v\u00c3\u00a9nements organise le club Art & M\u00c3\u00a9dia et en quoi cela enrichit-il la vie \u00c3\u00a9tudiante \u00c3\u00a0 l'ENSEM?",
+      "answer": "Le club Art & M\u00c3\u00a9dia organise des \u00c3\u00a9v\u00c3\u00a9nements artistiques et culturels tels que des concerts, des expositions artistiques et des projections de films, ce qui offre aux \u00c3\u00a9tudiants l'occasion de s'exprimer et de d\u00c3\u00a9couvrir de nouvelles formes d'art."
+    },
+    {
+      "question": "Quel est le r\u00c3\u00b4le du club ENSEM EL KHIR CIDH dans la promotion du b\u00c3\u00a9n\u00c3\u00a9volat et de l'engagement communautaire?",
+      "answer": "ENSEM EL KHIR CIDH sensibilise les \u00c3\u00a9tudiants \u00c3\u00a0 l'importance du b\u00c3\u00a9n\u00c3\u00a9volat et les encourage \u00c3\u00a0 s'impliquer dans des activit\u00c3\u00a9s de service communautaire pour contribuer positivement \u00c3\u00a0 la soci\u00c3\u00a9t\u00c3\u00a9."
+    },
+    {
+      "question": "En quoi le Plast Lab facilite-t-il le d\u00c3\u00a9veloppement des comp\u00c3\u00a9tences pratiques et la concr\u00c3\u00a9tisation des id\u00c3\u00a9es des \u00c3\u00a9tudiants \u00c3\u00a0 l'ENSEM?",
+      "answer": "Le Plast Lab offre aux \u00c3\u00a9tudiants une plateforme pour mettre en pratique leurs connaissances th\u00c3\u00a9oriques, d\u00c3\u00a9velopper des comp\u00c3\u00a9tences techniques et concr\u00c3\u00a9tiser leurs id\u00c3\u00a9es de projets \u00c3\u00a0 travers des projets concrets et des ateliers de fabrication."
+    },
+    {
+      "question": "fine",
+      "answer": "that great! how i can help you today ?"
+    },
+    {
+      "question": "good",
+      "answer": "great !! i wich you the best , how i can help you today ?"
+    },
+    {
+      "question": "c'est quoi ensem ?",
+      "answer": "L'\u00c3\u00a9cole Nationale Sup\u00c3\u00a9rieure d'\u00c3\u00a9lectricit\u00c3\u00a9 et de M\u00c3\u00a9canique (ENSEM) est une grande \u00c3\u00a9cole d'ing\u00c3\u00a9nieurs situ\u00c3\u00a9e \u00c3\u00a0 Casablanca, au Maroc. Fond\u00c3\u00a9e en 1959, elle fait partie du r\u00c3\u00a9seau des \u00c3\u00a9coles d'ing\u00c3\u00a9nieurs du Maroc et propose des formations dans les domaines de l'\u00c3\u00a9lectricit\u00c3\u00a9, de la m\u00c3\u00a9canique, de l'\u00c3\u00a9lectronique, de l'informatique et d'autres disciplines connexes."
+    },
+    {
+      "question": "qui est le directeur de l'ensemble ? ?",
+      "answer": "PROF. BADREDDINE BENAMEUR"
+    },
+    {
+      "question": "who is the director of the ensem ?",
+      "answer": "PROF. BADREDDINE BENAMEUR"
+    },
+    {
+      "question": "what is ensem ?",
+      "answer": "The National School of Electricity and Mechanics (ENSEM) is a major engineering school located in Casablanca, Morocco. Founded in 1959, it is part of the network of engineering schools in Morocco and offers training in the fields of electricity, mechanics, electronics, IT and other related disciplines. Located on the largest industrial center in Morocco, ENSEM benefits from a quality socio-economic environment, guaranteeing its engineering students an easy and early immersion into the professional world.The training provided at ENSEM aims primarily to provide its future graduates with a very high scientific and technical level, great managerial skills and a strong capacity for adaptation. The recent economic development that Morocco is experiencing, accompanying the policy of major projects, has led to the influx of numerous companies into our country, particularly in the fields of Aeronautics, Automobile and Electronics. These companies have significant needs in the field of management, which augurs a flourishing future for our future winners specialized in the fields of Electrical, Mechanics, IT and Industrial Engineering."
+    },
+    {
+      "question": "what is ensem adress ?",
+      "answer": "Boulevard Abdellah Ibrahim (Ex. Route d'El Jadida)"
+    },
+    {
+      "question": "what is contact information ?",
+      "answer": "Phone : 05 22 23 07 89\nFax : 05 22 23 12 99 \nEmail: contact@ensem.ac.ma"
+    },
+    {
+      "question": "thanks",
+      "answer": "your welcome"
+    },
+    {
+      "question": "who do you learn to response",
+      "answer": "i am an Ai model"
+    },
+    {
+      "question": "who is the best teacher in the world",
+      "answer": "the life is the best teacher "
+    },
+    {
+      "question": "ensem is it in casablanca ?",
+      "answer": "yes "
+    },
+    {
+      "question": "ensem is in rabat ?",
+      "answer": "no"
+    },
+    {
+      "question": "where ensem is founded",
+      "answer": "ensem is founded in 1986"
+    },
+    {
+      "question": "which date ensem is created ?",
+      "answer": "in 1986"
+    },
+    {
+      "question": "the name of clubs in ensem ?",
+      "answer": " CLUB CELEC, THE GREAT DEBATERS ENSEM, ART and MEDIA, ENSEM ENGINEERING, CLUB INDUS, ENACTUS ENSEM, club CSC "
+    },
+    {
+      "question": "the name of clubs in ens ?",
+      "answer": "i don't know, i know just ensem clubs "
+    },
+    {
+      "question": "how many department are  in ensem",
+      "answer": "4 departement "
+    }
+  ]
+}
